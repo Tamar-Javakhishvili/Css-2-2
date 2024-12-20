@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#headerContainer {
+    max-width: 1140px;
+    width: 100%;    
+    padding: 12px 80px;
+    text-align: left;
+}
+
+#logo {
+    vertical-align: middle;
+    width: 173.66px;
+    margin-right: 171px;
+}
+
+#navigation {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 171px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: #323232; 
+    font-size: 18px;
+    margin-right: 20px; 
+}
+
+#contuctUs {
+    width: 105px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    color: #AC00FF;
+    font-size: 14px;
+}
+
+/* main */
+
+
+#mainContainer {
+    max-width: 841px;
+    width: 100%;
+    margin-left: 214px;
+    margin-top: 64px;
+}
+
+#mainHeader {
+    max-width: 720px;
+    width: 100%;
+    color: #323232;
+    font-size: 64px;
+    line-height: 74px;
+    margin-bottom: 24px;
+}
+
+#mainText {
+    color: #323232;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 24px;
+}
+
+#joinNow {
+    width: 204px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    border: none;
+    color: #FFF;
+    font-size: 18px;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#playButton {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#watchVideo {
+    vertical-align: middle;
+    display: inline-block;
+    color: #4D3491;
+    font-size: 18px;
+    text-decoration: none;
+    text-decoration-line: underline;
+}
+
+#imgPosition {
+    max-width: 1400px;
+    width: 100%;
+    margin-left: auto; 
+}
+
+ #cards {
+    margin: -120px;
+ }
